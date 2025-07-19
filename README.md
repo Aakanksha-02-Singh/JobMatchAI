@@ -22,13 +22,13 @@ An AI-powered job-assessment matching engine built with Python, Pandas, PyTorch,
 ## 📸 Output Screenshots
 
 ### 🔹 Output 1 – Streamlit application  
-![Upload Screenshot](images/output1.png)
+![Upload Screenshot](images/Output1.png)
 
 ### 🔹 Output 2 – Input Job Description  
-![Matching Screenshot](images/output2.png)
+![Matching Screenshot](images/Output2.png)
 
 ### 🔹 Output 3 – Final Recommendations  
-![Recommendations Screenshot](images/output3.png)
+![Recommendations Screenshot](images/Output3.png)
 
 ## 🛠️ How to Run
 
